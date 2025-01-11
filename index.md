@@ -15,6 +15,8 @@ Prior to this, I was a **Research Intern** at the **Futuristic Wireless and Netw
 
 In the past, I interned at the [Department of Electronics Engineering](https://electronics.iitism.ac.in/), [IIT (ISM)](https://www.iitism.ac.in/) Dhanbad under [Prof. Samrat Mukhopadhyay](https://sites.google.com/view/samratspace/home?authuser=0), focusing on implementation and testing on Generalized Online Caching Algorithms. At [Suvidha Foundation](https://suvidhafoundationedutech.org/), I developed a flower classification model using CNNs and ML Classification Models to classify various types of flower models captured by the camera of mobile devices.
 
+Last Update:
+
 ## <span style="color:darkblue">News and Timeline </span>
 **2024**
 * **October** Started collaborating with [Prof. Amitava Das](https://sam.research.sc.edu/uscera/facultyExpertise/cv/43377) (AIISC, USC) on text-to-image hallucinations.

@@ -4,7 +4,7 @@ description: I'm Rachit Bansal and I work on Natural Language Processing. More d
 ---
 
 <!-- (comment) the image below can be found in img folder of this very project-->
-![i_am_rachit](./img/people/me.png){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}
+![i_am_mainak](./img/people/me.jpg){: style="float: right; margin: 0px 20px; width: 180px;" name="fox"}
 
 
 I am Rachit, a PhD student at Harvard University. I am super fortunate to be advised by [Prof. David Alvarez-Melis](https://dmelis.github.io) and [Prof. Martin Wattenberg](https://www.bewitched.com/about.html). Broadly, I am interested in making language models more useful and controllable. I am also interested in understanding and analysis.

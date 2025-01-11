@@ -1,14 +1,14 @@
 # Site settings
 exclude: [README.md,example1.md,example2.md]
-title: Rachit Bansal
-email: rachitbansal2500@gmail.com
-github: RachitBansal
-twitter: deaddarkmatter
-scholar_id: x28WYAAAAJ
+title: Mainak Chatterjee
+email: chatterjee01m@gmail.com
+github: Mainak-Chatterjee
+# twitter: deaddarkmatter
+# scholar_id: x28WYAAAAJ
 description: > # this symbol means ignore newlines until "baseurl:"
     Hi! I'm Rachit and here you will find what I do.
 baseurl: "" # keep blank unless you're using sub-paths
-url: "http://rachitbansal.github.io" # the base hostname & protocol for your site
+url: "http://Mainak-Chatterjee.github.io" # the base hostname & protocol for your site
 #paginate: 3
 
 # you can also declare arbitrary key-value data here

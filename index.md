@@ -13,17 +13,17 @@ Prior to this, I was a **Research Intern** at the **Futuristic Wireless and Netw
 
 **Keywords:** Large Language Models, Neural Machine Translation, Multilinguality, AI for social good, AI enabled Wireless Communication
 
-In the past, I interned at the [Department of Electronics Engineering](https://electronics.iitism.ac.in/), [IIT (ISM)](https://www.iitism.ac.in/) Dhanbad under [Prof. Samrat Mukhopadhyay](https://sites.google.com/view/samratspace/home?authuser=0), focusing on implementation and testing on Generalized Online Caching Algorithms. At [Suvidha Foundation](https://suvidhafoundationedutech.org/), I developed a flower classification model using CNNs and ML Classification Models to classify various types of flower models captured by the camera of mobile devices.
+In the past, I interned at the [Department of Electronics Engineering](https://electronics.iitism.ac.in/), [IIT (ISM) Dhanbad](https://www.iitism.ac.in/) under [Prof. Samrat Mukhopadhyay](https://sites.google.com/view/samratspace/home?authuser=0), focusing on implementation and testing on Generalized Online Caching Algorithms. At [Suvidha Foundation](https://suvidhafoundationedutech.org/), I developed a flower classification model using CNNs and ML Classification Models to classify various types of flower models captured by the camera of mobile devices.
 
 Last Update:
 
 ## <span style="color:darkblue">News and Timeline </span>
 **2025**
-* **January** Joining as a Junior Project Engineer under under [Prof. Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) at the [Department of CSE](https://cse.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/).
+* **January** Joining as a Junior Project Engineer under under [Prof. Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) at the Department of Computer Science Engineering, IIT Kharagpur.
 
 **2024**
-* **October** Started collaborating with [Prof. Amitava Das](https://sam.research.sc.edu/uscera/facultyExpertise/cv/43377), [AI Institute, University of Southern Carolina](https://aiisc.ai/people.html) on improving the alignment of text-to-image models.
-* **July** Joining as a Research Assistant under [Prof. Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) at the [Department of CSE](https://cse.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/).
+* **October** Started collaborating with [Prof. Amitava Das](https://sam.research.sc.edu/uscera/facultyExpertise/cv/43377), (AIISC, USC) on improving the alignment of text-to-image models.
+* **July** Joining as a Research Assistant under [Prof. Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) at the Department of Computer Science Engineering, IIT Kharagpur.
 * **March** Joining as a Research Intern under [Prof. Debarati Sen](https://sites.google.com/view/debarati-sen) at the G.S. Sanyal School of Telecommunications, IIT Kharagpur.
 
 **2023**

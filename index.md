@@ -19,7 +19,7 @@ Last Update:
 
 ## <span style="color:darkblue">News and Timeline </span>
 **2025**
-* **January** Joining as a Junior Project Engineer under under [Prof. Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) at the Department of Computer Science Engineering, IIT Kharagpur.
+* **February** Joining as a Junior Project Engineer under under [Prof. Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) at the Department of Computer Science Engineering, IIT Kharagpur.
 
 **2024**
 * **October** Started collaborating with [Prof. Amitava Das](https://sam.research.sc.edu/uscera/facultyExpertise/cv/43377), (AIISC, USC) on improving the alignment of text-to-image models.

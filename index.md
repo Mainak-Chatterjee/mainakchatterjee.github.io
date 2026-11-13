@@ -21,7 +21,7 @@ Last Update:
 
 ## <span style="color:darkblue">News and Timeline </span>
 **2026**
-* **August** Joining as a Senior Project Assistant under under[Prof. Subhamoy Mandal(https://sites.google.com/site/smandalbiomed/home) at the School of Medical Science and Technology, IIT Kharagpur.
+* **August** Joining as a Senior Project Assistant under under[Prof. Subhamoy Mandal](https://sites.google.com/site/smandalbiomed/home) at the School of Medical Science and Technology, IIT Kharagpur.
 * **June** Joining as a Senior Project Associate under under [Prof. Amitansghu Pal](https://www.iitk.ac.in/amitangshu-pal) at the Department of Computer Science and Engineering, IIT Kanpur.
  
 **2025**
